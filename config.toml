@@ -16,7 +16,7 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
     author = "Be creative." # Author's name.
-    info = "Feel the loneliness." # Author's job title or info.
+    info = "Build a rocket ship, fly it far away." # Author's job title or info.
     description = "FOR2049X" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
      # Contain the path of the optionnal avatar in the static folder.
