@@ -1,0 +1,32 @@
+<footer class="footer">
+  <section class="container">
+    {{ if .Site.Params.snsShare }}
+      <div class="">
+        <a class="sns-share twitter-share" href=""><i class=""></i></a>
+        <a class="fb btn sns-share fb-share" href=""></i></a>
+        <a class="sns-share hatena-share" href=""></i></a>
+        <a class="sns-share line-share" href=""><i class=""></i></a>
+      </div>
+    {{ end }}
+    {{ with .Site.Params.footercontent }}
+      <p>{{.}}</p>
+    {{ end }}
+    {{ if not .Site.Params.hideCopyright }} © {{ .Site.LastChange.Format "2006" }} {{ end }} {{ if not .Site.Params.hideCredits}} {{ if not .Site.Params.hideCopyright }} · {{ end }} Powered by <a href="https://gohugo.io/">Hugo</a> & <a href="">CoderPortfolio</a>. {{ end }}
+
+  </section>
+</footer>
+<div class="fixed-bar">
+  <section class="container">
+    {{ with .Site.Params.fixedbarContent }}
+      <p id="privateTriggerText">{{.}}<a id="privateTrigger"></a></p>
+    {{ end }}
+    {{ if .Site.Params.snsShare }}
+      <div class="">
+        <font size = "3"  face="Fira+Mono"><b>"登峰造极"</b></font>
+        <a class="fb btn sns-share fb-share"><i class=""></i></a>
+        <a class="sns-share hatena-share"></i></a>
+        <a class="sns-share line-share"><i class=""></i></a>
+       </div>
+    {{ end }}
+  </section>
+</div>
