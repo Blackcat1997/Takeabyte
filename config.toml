@@ -52,10 +52,6 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
     name = "Twitter"
     weight = 2
     url = "https://twitter.com/Blackcat1997X"
-[[params.social]]
-    name = "Email"
-    weight = 3
-    url = "amaze2333@gmail.com"
 
    
 # Menu links
