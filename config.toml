@@ -15,8 +15,8 @@ pygmentsUseClasses = true # new add
 disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 
 [params] # theme parameters
-    author = "Feel the loneliness." # Author's name.
-    info = "Be creative." # Author's job title or info.
+    author = "Be creative." # Author's name.
+    info = "Feel the loneliness." # Author's job title or info.
     description = "FOR2049X" # Site description.
     keywords = "blog,developer,personal" # Site keywords.
      # Contain the path of the optionnal avatar in the static folder.
@@ -47,11 +47,16 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
 [[params.social]]
     name = "Github"
     weight = 1
-    url = "https://github.com/"
+    url = "https://github.com/Blackcat1997"
 [[params.social]]
     name = "Twitter"
-    weight = 1
-    url = "https://twitter.com"
+    weight = 2
+    url = "https://twitter.com/Blackcat1997X"
+[[params.social]]
+    name = "Email"
+    weight = 3
+    url = "amaze2333@gmail.com"
+
    
 # Menu links
 [[menu.main]]
