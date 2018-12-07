@@ -1,3 +1,9 @@
+---
+title: "《iOS Apprentice》N1.md"
+date: 2018-12-07T13:00:44+08:00
+draft: true
+---
+
 # 《iOS Apprentice》Note.1
 1. 每一个屏幕Screen都由一个view controller所管理
     * 设计模式
