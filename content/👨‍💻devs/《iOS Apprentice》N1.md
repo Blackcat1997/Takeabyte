@@ -1,7 +1,7 @@
 ---
 title: "《iOS Apprentice》N1.md"
 date: 2018-12-07T13:00:44+08:00
-draft: true
+Math: true
 ---
 
 # 《iOS Apprentice》Note.1
