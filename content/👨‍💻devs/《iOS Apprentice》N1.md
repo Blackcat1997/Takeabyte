@@ -1,10 +1,8 @@
 ---
-title: "《iOS Apprentice》N1.md"
+title: "iOS Apprentice》Note.1"
 date: 2018-12-07T13:00:44+08:00
 Math: true
 ---
-
-# 《iOS Apprentice》Note.1
 1. 每一个屏幕Screen都由一个view controller所管理
     * 设计模式
 2. 如何让按钮进行工作
