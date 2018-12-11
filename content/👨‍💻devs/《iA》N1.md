@@ -62,5 +62,11 @@ Math: true
     每次当一个方法被调用的时候，它的局部变量和常量都会被重新创建，因此之前的旧值被丢弃，便可以得到新值了。
 16. **什么是实例变量？**
 17. 项目的设置基本上都存在Info.plist里面.
+18. 对于每一个view，在position和size上都要设置constraint。
+    * 如果出现的不是蓝条而是橙条，则说明Auto Layout有问题
+        * 解决方法
+            * 点击目标部件
+            * 在Auto Layout附近点击Update Frames按钮
+            * 也可以用菜单栏 Editor ▸ Resolve Auto Layout Issues ▸ Update Frames
 
 </font>
