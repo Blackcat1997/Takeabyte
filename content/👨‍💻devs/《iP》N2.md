@@ -33,16 +33,19 @@ Math: true
 ### Controller层
 
 调用
-
+```swift
     tableview.dequeueReusableCell(withIdentifier:for:)
+```
 
 - 用于拷贝一个新的cell或是循环使用一个不在使用中的已经存在的cell， 比如这样，
+```swift
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
             
             let cell = tableView.dequeueReusableCell(withIdentifier: "ChecklistItem", for: indexPath)
     
     }
+```
 
 ## 5. IndexPath索引定位
 
@@ -53,10 +56,12 @@ IndexPath用于指向table中特定的一个row，也就是说IndexPath是用于
 Method是函数，但函数不一定是method，method是基于object的，函数是独立的，method是不是只能由其所属的class中的object调用?
 
  ### 关于Method的构造
+```swift
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
     ...
     }
+```
 
 - 首先这个method的名字不是tableview，而是tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath)。也就是说形参parameter的名字也是方法名的一部分。
 - func代表是函数
