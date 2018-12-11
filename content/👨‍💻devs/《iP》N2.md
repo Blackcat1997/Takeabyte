@@ -3,7 +3,7 @@ title: "《iOS Apprentice》读书笔记（二）"
 date: 2018-12-12T01:12:59+08:00
 Math: true
 ---
-<font face="苹方">
+<font face="pingfang">
 ## 1.关于TableView中的row和cell的问题
 
 如果使用tableview作为页面的话，那么data就是显示在tableview的cell里面，而数据是以row的形式展示，也就是一行一行的显示，那么一个row就对应一个cell，但cell的数量是固定的，屏幕上一次性能显示多少个cell，就有多少个cell，但row可以有很多个，当一个row被划上去看不到了之后，那它之前所在的cell就被移上来的row填充，这说明cell是可以重复使用的（re-used）。
