@@ -8,7 +8,7 @@ Math: true
 
 如果使用tableview作为页面的话，那么data就是显示在tableview的cell里面，而数据是以row的形式展示，也就是一行一行的显示，那么一个row就对应一个cell，但cell的数量是固定的，屏幕上一次性能显示多少个cell，就有多少个cell，但row可以有很多个，当一个row被划上去看不到了之后，那它之前所在的cell就被移上来的row填充，这说明cell是可以重复使用的（re-used）。
 
-要是cell能够被不同类型重复使用，就要给cell添加一个Resue Identifier。
+要使cell能够被不同类型重复使用，就要给cell添加一个Resue Identifier。
 
 ## 2. return返回值通常被称为方法的结果。
 
