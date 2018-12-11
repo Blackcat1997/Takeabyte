@@ -23,7 +23,7 @@ Math: true
 
 \* 其中的 - 用于分割区间
 
-/Users/blackcat/Desktop/Screen Shot 2018-12-11 at 11.51.35 PM.png
+![](/Users/blackcat/Desktop/Screen Shot 2018-12-11 at 11.51.35 PM.png)
 
 ## 4.如何在tableview中创建cell
 
