@@ -1,7 +1,7 @@
 ---
 title: "《iOS Apprentice》读书笔记（二）"
 date: 2018-12-12T01:12:59+08:00
-draft: true
+Math: true
 ---
 
 ## 1. 关于TableView中的row和cell的问题
