@@ -57,7 +57,7 @@ IndexPath用于指向table中特定的一个row，也就是说IndexPath是用于
 
 Method是函数，但函数不一定是method，method是基于object的，函数是独立的，method是不是只能由其所属的class中的object调用?
 
- ### 关于Method的构造
+### 关于Method的构造
 
 ```swift
 
