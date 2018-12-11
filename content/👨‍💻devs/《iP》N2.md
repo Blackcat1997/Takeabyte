@@ -23,8 +23,6 @@ draft: true
 
 \* 其中的 - 用于分割区间
 
-[](https://www.notion.so/a6cca8df96c648349c92a6325c1335aa#2c7deba590624567b8659fb4a4da14d0)
-
 ## 4. 如何在tableview中创建cell
 
 ### View层
