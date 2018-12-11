@@ -1,5 +1,5 @@
 ---
-title: "《iOS Apprentice》读书笔记.1"
+title: "《iOS Apprentice》读书笔记（一）"
 date: 2018-12-07T13:00:44+08:00
 Math: true
 ---
