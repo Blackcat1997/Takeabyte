@@ -19,11 +19,11 @@ Math: true
     Mark表示这是一个标记，用于标记一段代码，方便管理代码，能够通过Xcode的Jump Bar快速找到代码的位置。 
 
 - // TODO:- 可以表示待办提醒，表示代码需要完成
-- //FIXME: - 表示代码需要重写或是调整
+- //FIXME:- 表示代码需要重写或是调整
 
 \* 其中的 - 用于分割区间
 
-![](ScreenShot2018-12-11at11-62574af5-13d5-489c-9e3a-764d331efad5.51.35PM.png)
+/Users/blackcat/Desktop/Screen Shot 2018-12-11 at 11.51.35 PM.png
 
 ## 4. 如何在tableview中创建cell
 
@@ -58,6 +58,7 @@ IndexPath用于指向table中特定的一个row，也就是说IndexPath是用于
 Method是函数，但函数不一定是method，method是基于object的，函数是独立的，method是不是只能由其所属的class中的object调用?
 
  ### 关于Method的构造
+
 ```swift
 
     override func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
@@ -73,18 +74,14 @@ Method是函数，但函数不一定是method，method是基于object的，函�
     - 后面的tableview和 indexPath是局部形参名，用于方法本身内部使用
     - UITableView和IndexPath是形参的类型
 - 返回值
-
     →代表存在返回值，后面的UITableViewCell就是返回值的类型，如果没有返回值，可以省略不写箭头和类型。
 
 ## 7. iOS中的三种基本设计模式Design Patterns
 
 - MVC
 - Delegation
-
     让一个object代替另一个去做事情
-
 - Target-action
-
     将事件events（如点击按钮）与具体的动作方法method连接起来
 
 *《iOS Apprentice》Page 229*
