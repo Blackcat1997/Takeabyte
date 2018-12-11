@@ -23,6 +23,8 @@ Math: true
 
 \* 其中的 - 用于分割区间
 
+![](ScreenShot2018-12-11at11-62574af5-13d5-489c-9e3a-764d331efad5.51.35PM.png)
+
 ## 4. 如何在tableview中创建cell
 
 ### View层
