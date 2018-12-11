@@ -4,6 +4,7 @@ date: 2018-12-07T13:00:44+08:00
 Math: true
 ---
 <font face="PingFang SC">
+
 1. 每一个屏幕Screen都由一个view controller所管理
     * 设计模式
 2. 如何让按钮进行工作
