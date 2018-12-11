@@ -63,7 +63,7 @@ Math: true
 16. **什么是实例变量？**
 17. 项目的设置基本上都存在Info.plist里面.
 18. **对于每一个view，在position和size上都要设置constraint。**
-    * 如果出现的不是蓝条而是橙条，则说明Auto Layout有问题
+    	* 如果出现的不是蓝条而是橙条，则说明Auto Layout有问题
         * 解决方法
             * 点击目标部件
             * 在Auto Layout附近点击Update Frames按钮
