@@ -7,6 +7,7 @@ Math: true
 ## 1. 关于MVC
 
 MVC是一种设计模式
+
 * M代表Model objects，用于数据存储
 * V代表View objects，用于视觉处理，UI动效等
 * C代表Controller objects，连接M和V，用户通过点击V，C检测到点击事件，对所点击的V对应的M进行数据处理.
