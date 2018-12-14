@@ -11,7 +11,7 @@ MVC是一种设计模式
 * V代表View objects，用于视觉处理，UI动效等
 * C代表Controller objects，连接M和V，用户通过点击V，C检测到点击事件，对所点击的V对应的M进行数据处理.
 
-![](https://github.com/Blackcat1997/Blackcat1997.github.io/raw/master/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdevs/3.png){:height="50%" width="50%"}
+![](https://github.com/Blackcat1997/Blackcat1997.github.io/raw/master/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdevs/3.png)
 
 ## 2. 什么是Property（属性）
 
