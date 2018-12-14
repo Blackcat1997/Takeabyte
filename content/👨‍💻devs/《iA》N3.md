@@ -11,7 +11,7 @@ MVC是一种设计模式
 * V代表View objects，用于视觉处理，UI动效等
 * C代表Controller objects，连接M和V，用户通过点击V，C检测到点击事件，对所点击的V对应的M进行数据处理
 
-![](Untitled-5cc1a5ac-4a90-4633-89df-ca89534b6140.png)
+![](https://github.com/Blackcat1997/Blackcat1997.github.io/raw/master/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdevs/3.png)
 
 ## 2. 什么是Property（属性）
 
@@ -89,7 +89,7 @@ App的基础任务之一就是将信息从一个View Controller传递到另一�
 
 ## 16.weak的用法
 
-![](Untitled-50b6776d-4eeb-4184-b53f-95c07b5dfaa1.png)
+![](https://github.com/Blackcat1997/Blackcat1997.github.io/raw/master/%F0%9F%91%A8%E2%80%8D%F0%9F%92%BBdevs/2.png)
 
 用weak防止循环引用，让A和B不互相持有，“被动”的一方不去持有“主动”的一方。
 
