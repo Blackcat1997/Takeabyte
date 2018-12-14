@@ -95,5 +95,5 @@ App的基础任务之一就是将信息从一个View Controller传递到另一�
 
 如果能够确定在访问的时候不会已被释放的话，尽量使用unowned，如果存在释放，用weak。
 
-*Page 316
+*Page 316*
 </font>
