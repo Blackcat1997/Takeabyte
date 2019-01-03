@@ -56,9 +56,9 @@ disqusShortname = "yourdiscussshortname" # Enable or disable Disqus.
    
 # Menu links
 [[menu.main]]
-    name = "Devs"
+    name = "Dev"
     weight = 1
-    url  = "devs"
+    url  = "dev"
 [[menu.main]]
     name = "Books"
     weight = 2
